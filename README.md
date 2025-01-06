@@ -1,5 +1,14 @@
 # Titanic Machine Learning
-This project marks my first venture into Kaggle. The machine learning project aimed at predicting Titanic passenger survival, achieving an accuracy of 78% using nine classification algorithms.
+This project marks my first venture into Kaggle. The machine learning project aimed at predicting Titanic passenger survival, achieving an accuracy of 78% using nine classification algorithms as list below.
+1) Gaussian Naive Bayes
+2) Logistic Regression
+3) Perceptron
+4) Stochastic Gradient Descent (SGD))
+5) Decision Tree
+6) Random Forest
+7) K-Nearest Neighbors (KNN))
+8) Gradient Boosting Classifier
+9) Support Vector Machines
 
 The main goal of this project was to strengthen my understanding of machine learning classification techniques and sharpen my data analysis skills. This project is part of Kaggle's tutorials, making it a great starting point for exploring machine learning workflows and uncovering hidden insights in a structured way. Even though it’s not a unique project but if you’re looking to get started with hands-on machine learning with clear guidance, this is a solid choice.
 
