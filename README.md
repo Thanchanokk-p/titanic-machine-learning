@@ -3,10 +3,10 @@ This project marks my first venture into Kaggle. The machine learning project ai
 1) Gaussian Naive Bayes
 2) Logistic Regression
 3) Perceptron
-4) Stochastic Gradient Descent (SGD))
+4) Stochastic Gradient Descent (SGD)
 5) Decision Tree
 6) Random Forest
-7) K-Nearest Neighbors (KNN))
+7) K-Nearest Neighbors (KNN)
 8) Gradient Boosting Classifier
 9) Support Vector Machines
 
